@@ -1,1 +1,2 @@
 # CafeExpresso
+O "Café Expresso" é um sistema de autoatendimento a ser implementado em uma cafeteria de pequeno porte. O objetivo é modernizar e agilizar o processo de realização de pedidos, permitindo que os próprios clientes montem seus pedidos em um totem (quiosque) digital e realizem o pagamento no mesmo local, sem precisar enfrentar a fila do caixa.
