@@ -1,0 +1,5 @@
+public class Cafe {
+    public boolean validarCafeExpresso(String tipo) {
+        return "expresso".equalsIgnoreCase(tipo);
+    }
+}
