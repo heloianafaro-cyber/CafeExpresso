@@ -35,14 +35,9 @@ public class Produto {
         }
     }
 
-    // Para testar o menu (opcional)
+    // Para testar o menu
     public static void main(String[] args) {
         Produto p = new Produto("Café Expresso", 12.50);
         p.exibirMenu();
     }
-
-    public int getPreco() {
-        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
-    
 }
